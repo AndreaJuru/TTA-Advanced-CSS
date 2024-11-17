@@ -16,7 +16,7 @@
 .position-static{
      position: static;
      top: 12px;
-     right: 60px;
+     right: 67px;
 }
 
 .position-relative{
@@ -24,3 +24,9 @@
     top: 30px;
     left: 45px;
 }
+
+/* .position-absolute{
+    position: absolute;
+    /* top: 50px; */
+    /* bottom: 70px; 
+}*/
