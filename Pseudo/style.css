@@ -40,7 +40,7 @@ ul li a{
 }
 
 #pseudo-elements p::before{
-    content: "Note:";
+    content: "Note: ";
     font-weight: bold;
     text-transform: uppercase;
 }
